@@ -1,0 +1,10 @@
+---
+Name: chito config
+---
+
+FaqHolder:
+  extensions:
+    - 'Lumberjack'
+
+FaqPage:
+  show_in_sitetree: false
