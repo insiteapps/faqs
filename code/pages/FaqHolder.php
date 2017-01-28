@@ -17,7 +17,7 @@ class FaqHolder extends Page
 
 }
 
-class FaqHolder_Controller extends Page_Controller
+class FaqHolderController extends PageController
 {
     public function init()
     {
