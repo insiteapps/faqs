@@ -10,7 +10,7 @@ class FaqPage extends Page {
     );
 
 }
-class FaqPageController extends Page_Controller
+class FaqPage_Controller extends Page_Controller
 {
     public function init()
     {
