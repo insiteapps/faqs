@@ -10,12 +10,11 @@ class FaqPage extends Page {
     );
 
 }
-class FaqPageController extends PageController
+class FaqPageController extends Page_Controller
 {
     public function init()
     {
         parent::init();
-
         Requirements::css(BOOTSTRAP_FAQ_DIR . "/css/FAQs.css");
     }
 }
